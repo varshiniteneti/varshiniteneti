@@ -6,7 +6,7 @@
 
 - 💬 About me **👨‍💻 Software Developer with over 3.5 years of experience in Full-stack development. Accomplished in developing responsive web applications and optimizing system performance using technologies like React.js, Spring Boot, and modern JavaScript. Expertise in agile methodologies, project management, and improving customer satisfaction rates.**
 
-- 📫 How to reach me **varshiniteneti@gmail.com**
+- 📫 How to reach me **tenetivarshini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
