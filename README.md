@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshiniteneti&label=Profile%20views&color=0e75b6&style=flat" alt="varshiniteneti" /> </p>
 
-- 💬 About me:
+- About me💬 :
 - A dynamic and dedicated Full Stack Developer with over 3.5 years of experience in crafting responsive and efficient web applications.
 - My technical toolkit is vast, from Java, Python, and Go to frameworks such as React.js, Spring Boot, and Node.js. My cloud expertise spans AWS and Azure, and I am well-versed in CI/CD 
   processes using tools like Jenkins and Docker.
